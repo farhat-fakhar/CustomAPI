@@ -1,0 +1,1110 @@
+[
+    {
+        "id": 1,
+        "category": "Woman",
+        "womansubcategory": "3 piece",
+        "name": "3 Piece - Embroidered Cambric Suit",
+        "piece": 3,
+        "SKU": "0U3PESG24V53",
+        "price": 85900,
+        "oldPrice": 95900,
+        "quantity": 8,
+        "rating": 4.3,
+        "reviews": [
+          {
+            "user": "Sana Gohar",
+            "rating": 4,
+            "comment": "I can't get enough of this dress! The style is modern and chic, and it fits like a dream. The length is just right—not too short, not too long."
+          },
+          {
+            "user": "Alina Saif",
+            "rating": 5,
+            "comment": "The dress has a beautiful design, and the color is gorgeous. The fabric is soft, but it’s a bit thinner than I expected, so it might need a slip underneath."
+          }
+        ],
+        "note": "Actual product color may vary slightly from the image.",
+        "description": "Embrace blooming florals in our turquoise, embroidered three-piece featuring a cambric shirt and trousers, with a matching bemberg crinkle chiffon dupatta.",
+        "sewing": "Unstitched",
+        "shirt": {
+          "details": [
+            "Dyed Embroidered Cambric Shirt Front 1.15M",
+            "Dyed Embroidered Cambric Shirt Sleeves 0.66M",
+            "Embroidered Hem & Neckline 2PC",
+            "Dyed Cambric Shirt Back 1.15M",
+            "Embroidered Sleeves Border 3PC"
+          ],
+          "fabric": "Cambric",
+          "color": "Turquoise"
+        },
+        "dupatta": {
+          "details": "Dyed Embroidered Crinkle Chiffon Dupatta 2.5M",
+          "fabric": "Crinkle Chiffon",
+          "color": "Turquoise"
+        },
+        "trousers": {
+          "details": [
+            "Dyed Cambric Trouser 2.5M",
+            "Embroidered Trouser Border 3PC"
+          ],
+          "fabric": "Cambric",
+          "color": "Turquoise"
+        },
+        "images": [
+          "https://pk.sapphireonline.pk/cdn/shop/files/0U3PESG24V53_1.jpg?v=1723025122&width=400",
+          "https://pk.sapphireonline.pk/cdn/shop/files/0U3PESG24V53_2.jpg?v=1723025121&width=400",
+          "https://pk.sapphireonline.pk/cdn/shop/files/0U3PESG24V53_1_44b3c8a7-da83-4df8-8c06-cf8230410963.jpg?v=1723030586&width=400",
+          "https://pk.sapphireonline.pk/cdn/shop/files/0U3PESG24V53_3.jpg?v=1723025122&width=400"
+        ],
+        "size": ["XS", "S", "M", "L"],
+        "status": "Sale",
+        "modelHeight": "5'7 And She Is Wearing size"
+      },
+      {
+        "id": 2,
+        "category": "Woman",
+        "womansubcategory": "3 piece",
+        "name": "3 Piece - Embroidered Jacquard Suit",
+        "piece": 3,
+        "SKU": "U3PESG24V512",
+        "price": 75900,
+        "quantity": 5,
+        "rating": 4.6,
+        "reviews": [
+          {
+            "user": "Sani Ali",
+            "rating": 4,
+            "comment": "I recently purchased this dress, and I couldn’t be happier with my choice. The fabric is high-quality, soft against the skin, and has just the right amount of stretch to make it comfortable to wear all day."
+          },
+          {
+            "user": "Hania Gull",
+            "rating": 5,
+            "comment": "This dress is a wardrobe staple! The design is simple yet elegant, making it versatile for different occasions. Whether I'm dressing it up with heels or keeping it casual with flats, it always looks great."
+          },
+          {
+            "user": "Huma Faisal",
+            "rating": 3.9,
+            "comment": "Great dress! Fits perfectly and looks exactly like the pictures. The material is comfortable, and it’s versatile enough to dress up or down. Would highly recommend!"
+          }
+        ],
+        "note": "Actual product color may vary slightly from the image.",
+        "description": "Create a regal look this season in our charcoal black, three-piece featuring a printed extra weft jacquard shirt, dyed cambric trousers, and embroidered manar dupatta.",
+        "sewing": "Unstitched",
+        "shirt": {
+          "details": [
+            "Printed Embroidered Extra Weft Jacquard Shirt Front 1.15M",
+            "Printed Extra Weft Jacquard Shirt Sleeves & Back 2.54M",
+            "Embroidered Sleeves Border 1PC",
+            "Embroidered Sleeves Border 3PC"
+          ],
+          "fabric": "Extra Weft Jacquard",
+          "color": "Multi"
+        },
+        "dupatta": {
+          "details": "Dyed Embroidered Manar Dupatta 2.5M",
+          "fabric": "Manar",
+          "color": "Brick Red"
+        },
+        "trousers": {
+          "details": "Dyed Cambric Trouser 2.5M",
+          "fabric": "Cambric",
+          "color": "Charcoal Black"
+        },
+        "images": [
+          "https://pk.sapphireonline.pk/cdn/shop/files/U3PESG24V512_2.jpg?v=1723027270&width=400",
+          "https://pk.sapphireonline.pk/cdn/shop/files/U3PESG24V512_3_bd1d7937-2dd9-415b-be30-9c1e1dd2cb52.jpg?v=1723720195&width=400",
+          "https://pk.sapphireonline.pk/cdn/shop/files/U3PESG24V512_1.jpg?v=1723032463&width=400",
+          "https://pk.sapphireonline.pk/cdn/shop/files/U3PESG24V512_5.jpg?v=1723032463&width=400"
+        ],
+        "size": ["XS", "S", "M", "L"],
+        "status": "New",
+        "modelHeight": "5'7 And She Is Wearing size"
+      },
+      {
+        "id": 4,
+        "category": "Woman",
+        "womansubcategory": "3 piece",
+        "name": "3 Piece - Printed Cambric Suit",
+        "piece": 3,
+        "SKU": "00U3PTS24V44",
+        "price": 3790,
+        "quantity": 10,
+        "rating": 4.8,
+        "reviews": [
+            {
+                "user": "Ayesha Qureshi",
+                "rating": 4.7,
+                "comment": "This dress is fantastic! The fit is flattering, and the fabric is soft yet durable. It's perfect for both day and night events. I love the way it accentuates my figure without being too tight. Highly recommended!"
+            },
+            {
+                "user": "Nida Jamil",
+                "rating": 4.3,
+                "comment": "I’m very happy with this purchase. The dress is well-made and looks just like the picture. The color is beautiful and vibrant, and it’s easy to style for various occasions. The only reason I’m not giving it a full 5 stars is that the hemline is slightly uneven, but it’s hardly noticeable."
+            },
+            {
+                "user": "Fatima Shahid",
+                "rating": 4.6,
+                "comment": "A beautiful dress that fits like a dream! The material is soft and comfortable, with just the right amount of stretch. The design is timeless, making it a versatile addition to my closet. I’ve worn it to both casual outings and formal events, and it always looks great."
+            }
+        ],
+        "note": "Actual product color may vary slightly from the image.",
+        "description": "Opt for traditional elegance with our three-piece printed suit in black and white featuring a cambric shirt, voile dupatta and cambric trousers.",
+        "sewing": "Unstitched",
+        "shirt": {
+            "details": [
+                "Printed Cambric Shirt 3M"
+            ],
+            "fabric": "Cambric",
+            "color": "Black"
+        },
+        "dupatta": {
+            "details": "Printed Voile Dupatta 2.5M",
+            "fabric": "Voile",
+            "color": "Black & White"
+        },
+        "trousers": {
+            "details": "Printed Cambric Trouser 2.5M",
+            "fabric": "Cambric",
+            "color": "Black"
+        },
+        "images": [
+            "https://pk.sapphireonline.pk/cdn/shop/files/00U3PBW24V44_5_cd516868-2e9e-40c4-bbc0-d8c3c4a6dcde.jpg?v=1724159133&width=400",
+            "https://pk.sapphireonline.pk/cdn/shop/files/00U3PBW24V44_4_60ad40f3-dd42-484b-b51e-a77a397d36bf.jpg?v=1724159133&width=400",
+            "https://pk.sapphireonline.pk/cdn/shop/files/00U3PBW24V44_3_6a8f136e-b63c-4c21-b535-cc7ffc8c1c22.jpg?v=1724159133&width=400",
+            "https://pk.sapphireonline.pk/cdn/shop/files/00U3PBW24V44_2_945fbdbd-8a63-4d8d-840f-28ae247bc5d9.jpg?v=1724159133&width=400"
+        ],
+        "size": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "status": "New",
+        "modelHeight": "5'7 And She Is Wearing size"
+    },
+    {
+        "id": 5,
+        "category": "Woman",
+        "womansubcategory": "1 piece",
+        "name": "Printed Lawn Shirt",
+        "piece": 1,
+        "SKU": "00U3PTS24V44",
+        "price": 903,
+        "oldPrice": 1200,
+        "quantity": 20,
+        "rating": 4.5,
+        "reviews": [
+            {
+                "user": "Ayesha Qureshi",
+                "rating": 4.7,
+                "comment": "This dress is fantastic! The fit is flattering, and the fabric is soft yet durable. It's perfect for both day and night events. I love the way it accentuates my figure without being too tight. Highly recommended!"
+            },
+            {
+                "user": "Nida Jamil",
+                "rating": 4.3,
+                "comment": "I’m very happy with this purchase. The dress is well-made and looks just like the picture. The color is beautiful and vibrant, and it’s easy to style for various occasions. The only reason I’m not giving it a full 5 stars is that the hemline is slightly uneven, but it’s hardly noticeable."
+            },
+            {
+                "user": "Fatima Shahid",
+                "rating": 4.6,
+                "comment": "A beautiful dress that fits like a dream! The material is soft and comfortable, with just the right amount of stretch. The design is timeless, making it a versatile addition to my closet. I’ve worn it to both casual outings and formal events, and it always looks great."
+            }
+        ],
+        "note": "Actual product color may vary slightly from the image.",
+        "description": "Create a traditional look with our carrot red printed lawn shirt.",
+        "sewing": "Unstitched",
+        "shirt": {
+            "details": [
+                "Printed Lawn Shirt 2.5M"
+            ],
+            "fabric": "Lawn",
+            "color": "Carrot Red"
+        },
+        "images": [
+            "https://pk.sapphireonline.pk/cdn/shop/files/0U1SDY24V510_3.jpg?v=1722325605&width=400",
+            "https://pk.sapphireonline.pk/cdn/shop/files/0U1SDY24V510_2.jpg?v=1722325605&width=400",
+            "https://pk.sapphireonline.pk/cdn/shop/files/0U1SDY24V510_1.jpg?v=1722325605&width=400",
+            "https://pk.sapphireonline.pk/cdn/shop/files/0U1SDY24V510_4.jpg?v=1722325605&width=400"
+        ],
+        "size": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "status": "Sale",
+        "modelHeight": "5'7 And She Is Wearing size"
+    },
+    {
+        "id": 6,
+        "category": "Woman",
+        "womansubcategory": "1 piece",
+        "name": "Printed Cotton Shirt",
+        "piece": 1,
+        "SKU": "00U3PTS24V44",
+        "price": 1113,
+        "oldPrice": 1590,
+        "quantity": 6,
+        "rating": 4,
+        "reviews": [
+            {
+                "user": "Ayesha Qureshi",
+                "rating": 4.7,
+                "comment": "This dress is fantastic! The fit is flattering, and the fabric is soft yet durable. It's perfect for both day and night events. I love the way it accentuates my figure without being too tight. Highly recommended!"
+            },
+            {
+                "user": "Nida Jamil",
+                "rating": 4.3,
+                "comment": "I’m very happy with this purchase. The dress is well-made and looks just like the picture. The color is beautiful and vibrant, and it’s easy to style for various occasions. The only reason I’m not giving it a full 5 stars is that the hemline is slightly uneven, but it’s hardly noticeable."
+            },
+            {
+                "user": "Fatima Shahid",
+                "rating": 4.6,
+                "comment": "A beautiful dress that fits like a dream! The material is soft and comfortable, with just the right amount of stretch. The design is timeless, making it a versatile addition to my closet. I’ve worn it to both casual outings and formal events, and it always looks great."
+            }
+        ],
+        "note": "Actual product color may vary slightly from the image.",
+        "description": "Add a pop of colour to your seasonal closet in our dark pink, printed cambric floral shirt piece.",
+        "sewing": "Unstitched",
+        "shirt": {
+            "details": [
+                "Printed Cotton Shirt 3M"
+            ],
+            "fabric": "Cotton",
+            "color": "Dark Pink"
+        },
+        "images": [
+            "https://pk.sapphireonline.pk/cdn/shop/files/00U1SDY24V55_6.jpg?v=1721805123&width=400",
+            "https://pk.sapphireonline.pk/cdn/shop/files/00U1SDY24V55_2.jpg?v=1721805123&width=400",
+            "https://pk.sapphireonline.pk/cdn/shop/files/00U1SDY24V55_4.jpg?v=1721805123&width=400",
+            "https://pk.sapphireonline.pk/cdn/shop/files/00U1SDY24V55_3.jpg?v=1721805123&width=400"
+        ],
+        "size": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "status": "Sale",
+        "modelHeight": "5'7 And She Is Wearing size"
+    },
+    {
+        "id": 7,
+        "category": "Woman",
+        "womansubcategory": "1 piece",
+        "name": "Printed Cotton Shirt",
+        "piece": 1,
+        "SKU": "00U3PTS24V44",
+        "price": 1113,
+        "oldPrice": 1590,
+        "quantity": 26,
+        "rating": 3.9,
+        "reviews": [
+            {
+                "user": "Ayesha Qureshi",
+                "rating": 4.7,
+                "comment": "This dress is fantastic! The fit is flattering, and the fabric is soft yet durable. It's perfect for both day and night events. I love the way it accentuates my figure without being too tight. Highly recommended!"
+            },
+            {
+                "user": "Nida Jamil",
+                "rating": 4.3,
+                "comment": "I’m very happy with this purchase. The dress is well-made and looks just like the picture. The color is beautiful and vibrant, and it’s easy to style for various occasions. The only reason I’m not giving it a full 5 stars is that the hemline is slightly uneven, but it’s hardly noticeable."
+            },
+            {
+                "user": "Fatima Shahid",
+                "rating": 4.6,
+                "comment": "A beautiful dress that fits like a dream! The material is soft and comfortable, with just the right amount of stretch. The design is timeless, making it a versatile addition to my closet. I’ve worn it to both casual outings and formal events, and it always looks great."
+            },
+            {
+                "user": "Nida Jamil",
+                "rating": 4.3,
+                "comment": "I’m very happy with this purchase. The dress is well-made and looks just like the picture. The color is beautiful and vibrant, and it’s easy to style for various occasions. The only reason I’m not giving it a full 5 stars is that the hemline is slightly uneven, but it’s hardly noticeable."
+            }
+        ],
+        "note": "Actual product color may vary slightly from the image.",
+        "description": "Experience classic florals in our beige, printed cambric shirt piece.",
+        "sewing": "Unstitched",
+        "shirt": {
+            "details": [
+                "Printed Cotton Shirt 3M"
+            ],
+            "fabric": "Cotton",
+            "color": "Beige"
+        },
+        "images": [
+            "https://pk.sapphireonline.pk/cdn/shop/files/00U1SDY24V54_6.jpg?v=1721805084&width=400",
+            "https://pk.sapphireonline.pk/cdn/shop/files/00U1SDY24V54_2.jpg?v=1721805084&width=400",
+            "https://pk.sapphireonline.pk/cdn/shop/files/00U1SDY24V54_5.jpg?v=1721805084&width=400",
+            "https://pk.sapphireonline.pk/cdn/shop/files/00U1SDY24V54_4.jpg?v=1721805084&width=400"
+        ],
+        "size": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "status": "Sale",
+        "modelHeight": "5'7 And She Is Wearing size"
+    },
+    {
+        "id": 8,
+        "category": "Woman",
+        "womansubcategory": "1 piece",
+        "name": "Printed Cotton Shirt",
+        "piece": 1,
+        "SKU": "00U1SDY24V53",
+        "price": 1590,
+        "oldPrice": 1530,
+        "quantity": 6,
+        "rating": 3.7,
+        "reviews": [
+            {
+                "user": "Ayesha Qureshi",
+                "rating": 4.7,
+                "comment": "This dress is fantastic! The fit is flattering, and the fabric is soft yet durable. It's perfect for both day and night events. I love the way it accentuates my figure without being too tight. Highly recommended!"
+            },
+            {
+                "user": "Nida Jamil",
+                "rating": 4.3,
+                "comment": "I’m very happy with this purchase. The dress is well-made and looks just like the picture. The color is beautiful and vibrant, and it’s easy to style for various occasions. The only reason I’m not giving it a full 5 stars is that the hemline is slightly uneven, but it’s hardly noticeable."
+            },
+            {
+                "user": "Fatima Shahid",
+                "rating": 4.6,
+                "comment": "A beautiful dress that fits like a dream! The material is soft and comfortable, with just the right amount of stretch. The design is timeless, making it a versatile addition to my closet. I’ve worn it to both casual outings and formal events, and it always looks great."
+            },
+            {
+                "user": "Nida Jamil",
+                "rating": 4.3,
+                "comment": "I’m very happy with this purchase. The dress is well-made and looks just like the picture. The color is beautiful and vibrant, and it’s easy to style for various occasions. The only reason I’m not giving it a full 5 stars is that the hemline is slightly uneven, but it’s hardly noticeable."
+            }
+        ],
+        "note": "Actual product color may vary slightly from the image.",
+        "description": "Embrace monochrome magic in our printed cambric, black and off-white shirt piece featuring florals.",
+        "sewing": "Unstitched",
+        "shirt": {
+            "details": [
+                "Printed Cotton Shirt 3M"
+            ],
+            "fabric": "Cotton",
+            "color": "Black and Off White"
+        },
+        "images": [
+            "https://pk.sapphireonline.pk/cdn/shop/files/00U1SDY24V53_6.jpg?v=1721804971&width=400",
+            "https://pk.sapphireonline.pk/cdn/shop/files/00U1SDY24V53_2.jpg?v=1721804971&width=400",
+            "https://pk.sapphireonline.pk/cdn/shop/files/00U1SDY24V53_5.jpg?v=1721804971&width=400",
+            "https://pk.sapphireonline.pk/cdn/shop/files/00U1SDY24V53_3.jpg?v=1721804971&width=400"
+        ],
+        "size": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "status": "Sale",
+        "modelHeight": "5'7 And She Is Wearing size"
+    },
+    {
+        "id": 9,
+        "category": "Woman",
+        "womansubcategory": "2 piece",
+        "name": "Printed Cotton Shirt",
+        "piece": 2,
+        "SKU": "00U1SDY24V53",
+        "price": 1590,
+        "oldPrice": 1530,
+        "quantity": 6,
+        "rating": 3.7,
+        "reviews": [
+            {
+                "user": "Ayesha Qureshi",
+                "rating": 4.7,
+                "comment": "This dress is fantastic! The fit is flattering, and the fabric is soft yet durable. It's perfect for both day and night events. I love the way it accentuates my figure without being too tight. Highly recommended!"
+            },
+            {
+                "user": "Nida Jamil",
+                "rating": 4.3,
+                "comment": "I’m very happy with this purchase. The dress is well-made and looks just like the picture. The color is beautiful and vibrant, and it’s easy to style for various occasions. The only reason I’m not giving it a full 5 stars is that the hemline is slightly uneven, but it’s hardly noticeable."
+            },
+            {
+                "user": "Fatima Shahid",
+                "rating": 4.6,
+                "comment": "A beautiful dress that fits like a dream! The material is soft and comfortable, with just the right amount of stretch. The design is timeless, making it a versatile addition to my closet. I’ve worn it to both casual outings and formal events, and it always looks great."
+            },
+            {
+                "user": "Nida Jamil",
+                "rating": 4.3,
+                "comment": "I’m very happy with this purchase. The dress is well-made and looks just like the picture. The color is beautiful and vibrant, and it’s easy to style for various occasions. The only reason I’m not giving it a full 5 stars is that the hemline is slightly uneven, but it’s hardly noticeable."
+            }
+        ],
+        "note": "Actual product color may vary slightly from the image.",
+        "description": "Embrace monochrome magic in our printed cambric, black and off-white shirt piece featuring florals.",
+        "sewing": "Unstitched",
+        "shirt": {
+            "details": [
+                "Printed Cotton Shirt 3M"
+            ],
+            "fabric": "Cotton",
+            "color": "Black and Off White"
+        },
+        "trousers": {
+            "details": "Printed Cambric Trouser 2.5M",
+            "fabric": "Cambric",
+            "color": "Black"
+        },
+        "images": [
+            "https://pk.sapphireonline.pk/cdn/shop/files/00U1SDY24V53_6.jpg?v=1721804971&width=400",
+            "https://pk.sapphireonline.pk/cdn/shop/files/00U1SDY24V53_2.jpg?v=1721804971&width=400",
+            "https://pk.sapphireonline.pk/cdn/shop/files/00U1SDY24V53_5.jpg?v=1721804971&width=400",
+            "https://pk.sapphireonline.pk/cdn/shop/files/00U1SDY24V53_3.jpg?v=1721804971&width=400"
+        ],
+        "size": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "status": "Sale",
+        "modelHeight": "5'7 And She Is Wearing size"
+    },
+    {
+        "id": 10,
+        "category": "Woman",
+        "womansubcategory": "2 piece",
+        "name": "2 Piece - Printed Cotton Suit",
+        "piece": 2,
+        "SKU": "00U1SDY24V53",
+        "price": 2890,
+        "quantity": 6,
+        "rating": 4.7,
+        "reviews": [
+            {
+                "user": "Ayesha Qureshi",
+                "rating": 4.7,
+                "comment": "This dress is fantastic! The fit is flattering, and the fabric is soft yet durable. It's perfect for both day and night events. I love the way it accentuates my figure without being too tight. Highly recommended!"
+            },
+            {
+                "user": "Nida Jamil",
+                "rating": 4.3,
+                "comment": "I’m very happy with this purchase. The dress is well-made and looks just like the picture. The color is beautiful and vibrant, and it’s easy to style for various occasions. The only reason I’m not giving it a full 5 stars is that the hemline is slightly uneven, but it’s hardly noticeable."
+            },
+            {
+                "user": "Fatima Shahid",
+                "rating": 4.6,
+                "comment": "A beautiful dress that fits like a dream! The material is soft and comfortable, with just the right amount of stretch. The design is timeless, making it a versatile addition to my closet. I’ve worn it to both casual outings and formal events, and it always looks great."
+            },
+            {
+                "user": "Nida Jamil",
+                "rating": 4.3,
+                "comment": "I’m very happy with this purchase. The dress is well-made and looks just like the picture. The color is beautiful and vibrant, and it’s easy to style for various occasions. The only reason I’m not giving it a full 5 stars is that the hemline is slightly uneven, but it’s hardly noticeable."
+            }
+        ],
+        "note": "Actual product color may vary slightly from the image.",
+        "description": "Experience blooming florals with our black and blue, printed two-piece featuring a cotton shirt and cambric trousers.",
+        "sewing": "Stitched",
+        "shirt": {
+            "details": [
+                "Printed Cotton Shirt 3M"
+            ],
+            "fabric": "Cotton",
+            "color": "Black and Blue"
+        },
+        "trousers": {
+            "details": "Printed Cambric Trouser 2.5M",
+            "fabric": "Cambric",
+            "color": "Black and Blue"
+        },
+        "images": [
+            "https://pk.sapphireonline.pk/cdn/shop/files/00U3PDY24V56_6.jpg?v=1721805684&width=400",
+            "https://pk.sapphireonline.pk/cdn/shop/files/00U3PDY24V56_2.jpg?v=1721805685&width=400",
+            "https://pk.sapphireonline.pk/cdn/shop/files/00U3PDY24V56_4.jpg?v=1721805684&width=400",
+            "https://pk.sapphireonline.pk/cdn/shop/files/00U3PDY24V56_3.jpg?v=1721805685&width=400"
+        ],
+        "size": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "status": "New",
+        "modelHeight": "5'7 And She Is Wearing size"
+    },
+    {
+        "id": 11,
+        "category": "Woman",
+        "womansubcategory": "2 piece",
+        "name": "2 Piece - Printed Lawn Suit",
+        "piece": 2,
+        "SKU": "00U1SDY24V53",
+        "price": 2790,
+        "quantity": 3,
+        "rating": 4.9,
+        "reviews": [
+            {
+                "user": "Ayesha Qureshi",
+                "rating": 4.7,
+                "comment": "This dress is fantastic! The fit is flattering, and the fabric is soft yet durable. It's perfect for both day and night events. I love the way it accentuates my figure without being too tight. Highly recommended!"
+            },
+            {
+                "user": "Nida Jamil",
+                "rating": 4.3,
+                "comment": "I’m very happy with this purchase. The dress is well-made and looks just like the picture. The color is beautiful and vibrant, and it’s easy to style for various occasions. The only reason I’m not giving it a full 5 stars is that the hemline is slightly uneven, but it’s hardly noticeable."
+            },
+            {
+                "user": "Fatima Shahid",
+                "rating": 4.6,
+                "comment": "A beautiful dress that fits like a dream! The material is soft and comfortable, with just the right amount of stretch. The design is timeless, making it a versatile addition to my closet. I’ve worn it to both casual outings and formal events, and it always looks great."
+            },
+            {
+                "user": "Nida Jamil",
+                "rating": 4.3,
+                "comment": "I’m very happy with this purchase. The dress is well-made and looks just like the picture. The color is beautiful and vibrant, and it’s easy to style for various occasions. The only reason I’m not giving it a full 5 stars is that the hemline is slightly uneven, but it’s hardly noticeable."
+            }
+        ],
+        "note": "Actual product color may vary slightly from the image.",
+        "description": "Experience blooming florals with our white and blue, printed two-piece featuring a lawn shirt and cambric trousers.",
+        "sewing": "Stitched",
+        "shirt": {
+            "details": [
+                "Printed Cotton Shirt 3M"
+            ],
+            "fabric": "Cotton",
+            "color": "Black and Blue"
+        },
+        "trousers": {
+            "details": "Printed Cambric Trouser 2.5M",
+            "fabric": "Cambric",
+            "color": "White and Blue"
+        },
+        "images": [
+            "https://pk.sapphireonline.pk/cdn/shop/files/00U3PDY24V56_6.jpg?v=1721805684&width=400",
+            "https://pk.sapphireonline.pk/cdn/shop/files/00U3PDY24V56_2.jpg?v=1721805685&width=400",
+            "https://pk.sapphireonline.pk/cdn/shop/files/00U3PDY24V56_4.jpg?v=1721805684&width=400",
+            "https://pk.sapphireonline.pk/cdn/shop/files/00U3PDY24V56_3.jpg?v=1721805685&width=400"
+        ],
+        "size": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "status": "New",
+        "modelHeight": "5'7 And She Is Wearing size"
+    },
+    {
+        "id": 12,
+        "category": "Woman",
+        "womansubcategory": "2 piece",
+        "name": "2 Piece - Printed Lawn Suit",
+        "piece": 2,
+        "SKU": "00U1SDY24V53",
+        "price": 2290,
+        "quantity": 23,
+        "rating": 4.7,
+        "reviews": [
+          {
+            "user": "Ayesha Qureshi",
+            "rating": 4.7,
+            "comment": "This dress is fantastic! The fit is flattering, and the fabric is soft yet durable. It's perfect for both day and night events. I love the way it accentuates my figure without being too tight. Highly recommended!"
+          },
+          {
+            "user": "Nida Jamil",
+            "rating": 4.3,
+            "comment": "I’m very happy with this purchase. The dress is well-made and looks just like the picture. The color is beautiful and vibrant, and it’s easy to style for various occasions. The only reason I’m not giving it a full 5 stars is that the hemline is slightly uneven, but it’s hardly noticeable."
+          },
+          {
+            "user": "Fatima Shahid",
+            "rating": 4.6,
+            "comment": "A beautiful dress that fits like a dream! The material is soft and comfortable, with just the right amount of stretch. The design is timeless, making it a versatile addition to my closet. I’ve worn it to both casual outings and formal events, and it always looks great."
+          },
+          {
+            "user": "Nida Jamil",
+            "rating": 4.3,
+            "comment": "I’m very happy with this purchase. The dress is well-made and looks just like the picture. The color is beautiful and vibrant, and it’s easy to style for various occasions. The only reason I’m not giving it a full 5 stars is that the hemline is slightly uneven, but it’s hardly noticeable."
+          }
+        ],
+        "note": "Actual product color may vary slightly from the image.",
+        "description": "Elevate your seasonal style in our printed two-piece featuring a turquoise lawn shirt with a matching voile dupatta.",
+        "sewing": "Stitched",
+        "shirt": {
+          "details": [
+            "Printed Lawn Shirt 3M"
+          ],
+          "fabric": "Lawn",
+          "color": "Turquoise"
+        },
+        "trousers": {
+          "details": "Printed Voile Dupatta 2.5M",
+          "fabric": "Voile",
+          "color": "Turquoise"
+        },
+        "images": [
+          "https://pk.sapphireonline.pk/cdn/shop/files/0U2DDY24V53B_4.jpg?v=1721805734&width=400",
+          "https://pk.sapphireonline.pk/cdn/shop/files/0U2DDY24V53B_2.jpg?v=1721805734&width=400",
+          "https://pk.sapphireonline.pk/cdn/shop/files/0U2DDY24V53B_5.jpg?v=1721805734&width=400",
+          "https://pk.sapphireonline.pk/cdn/shop/files/0U2DDY24V53B_6.jpg?v=1721805734&width=400"
+        ],
+        "size": [
+          "XS",
+          "S",
+          "M",
+          "L"
+        ],
+        "status": "New",
+        "modelHeight": "5'7 And She Is Wearing size"
+      },
+      {
+        "id": 13,
+        "category": "Man",
+        "mansubcategory": "Outfits",
+        "name": "Embroidered Egyptian Cotton Suit",
+        "SKU": "MSTE2P24V316-XSM-SLM",
+        "price": 35970,
+        "oldPrice": 11990,
+        "quantity": 18,
+        "rating": 4.7,
+        "reviews": [
+          {
+            "user": "Ahmed Khan",
+            "rating": 4.8,
+            "comment": "This shirt is excellent! The fabric is soft and breathable, perfect for both casual and formal occasions. The fit is spot on, not too tight and not too loose. I’ve washed it a few times, and it still looks as good as new. Definitely worth the money."
+          },
+          {
+            "user": "Bilal Sheikh",
+            "rating": 4.5,
+            "comment": "These trousers are a great addition to my wardrobe. The material is high-quality and feels durable. They fit comfortably around the waist and have a nice tapered look. I appreciate the attention to detail, like the stitching and the pockets."
+          },
+          {
+            "user": "Salman Tariq",
+            "rating": 4.2,
+            "comment": "I bought this jacket for the winter, and it’s been a solid choice. It’s warm and stylish, with a modern cut that doesn’t feel bulky. The only thing I’d improve is the zipper, which sometimes gets stuck, but overall, it’s a great buy."
+          }
+        ],
+        "type": [
+          "Slim Fit",
+          "Regular Fit"
+        ],
+        "note": "Actual product color may vary slightly from the image.",
+        "sewing": "Unstitched",
+        "shirt": "Make a dapper statement in our lightweight, and breathable embroidered brown two-piece suit. With the finest quality Egyptian cotton and premium ammonia finish, elevate your traditional look with unparalleled sophistication.",
+        "details": "Embroidered Front, Plain Back, Full Sleeves with Cuff, Band Neckline",
+        "color": "Brown",
+        "fabric": "100% Egyptian Cotton Ammonia Finish",
+        "images": [
+          "https://pk.sapphireonline.pk/cdn/shop/files/0MSTEWC24V33.jpg?v=1719584910&width=400",
+          "https://pk.sapphireonline.pk/cdn/shop/files/MSTE2P24V316_5.jpg?v=1719584910&width=400",
+          "https://pk.sapphireonline.pk/cdn/shop/files/MSTE2P24V316_4.jpg?v=1719584910&width=400",
+          "https://pk.sapphireonline.pk/cdn/shop/files/MSTE2P24V316_2.jpg?v=1719584910&width=400"
+        ],
+        "size": [
+          "XS",
+          "S",
+          "M",
+          "L"
+        ],
+        "status": "Sale"
+      },
+      {   
+        "id": 13,
+        "category": "Man",
+        "mansubcategory": "Outfits",
+        "name": "Embroidered Egyptian Cotton Suit",
+        "SKU": "MSTE2P24V316-XSM-SLM",
+        "price": 35970,
+        "oldPrice": 11990,
+        "quantity": 18,
+        "rating": 4.7,
+        "reviews": [
+          {
+            "user": "Ahmed Khan",
+            "rating": 4.8,
+            "comment": "This shirt is excellent! The fabric is soft and breathable, perfect for both casual and formal occasions. The fit is spot on, not too tight and not too loose. I’ve washed it a few times, and it still looks as good as new. Definitely worth the money."
+          },
+          {
+            "user": "Bilal Sheikh",
+            "rating": 4.5,
+            "comment": "These trousers are a great addition to my wardrobe. The material is high-quality and feels durable. They fit comfortably around the waist and have a nice tapered look. I appreciate the attention to detail, like the stitching and the pockets."
+          },
+          {
+            "user": "Salman Tariq",
+            "rating": 4.2,
+            "comment": "I bought this jacket for the winter, and it’s been a solid choice. It’s warm and stylish, with a modern cut that doesn’t feel bulky. The only thing I’d improve is the zipper, which sometimes gets stuck, but overall, it’s a great buy."
+          }
+        ],
+        "type": [
+          "Slim Fit",
+          "Regular Fit"
+        ],
+        "note": "Actual product color may vary slightly from the image.",
+        "sewing": "Unstitched",
+        "shirt": "Make a dapper statement in our lightweight, and breathable embroidered brown two-piece suit. With the finest quality Egyptian cotton and premium ammonia finish, elevate your traditional look with unparalleled sophistication.",
+        "details": "Embroidered Front, Plain Back, Full Sleeves with Cuff, Band Neckline",
+        "color": "Brown",
+        "fabric": "100% Egyptian Cotton Ammonia Finish",
+        "images": [
+          "https://pk.sapphireonline.pk/cdn/shop/files/0MSTEWC24V33.jpg?v=1719584910&width=400",
+          "https://pk.sapphireonline.pk/cdn/shop/files/MSTE2P24V316_5.jpg?v=1719584910&width=400",
+          "https://pk.sapphireonline.pk/cdn/shop/files/MSTE2P24V316_4.jpg?v=1719584910&width=400",
+          "https://pk.sapphireonline.pk/cdn/shop/files/MSTE2P24V316_2.jpg?v=1719584910&width=400"
+        ],
+        "size": [
+          "XS",
+          "S",
+          "M",
+          "L"
+        ],
+        "status": "Sale"
+      },
+      {
+        "id": 14,
+        "category": "Man",
+        "mansubcategory": "Outfits",
+        "name": "Luxury Blended Modal Suit",
+        "SKU": "MSTE2P24V316-XSM-SLM",
+        "price": 29970,
+        "oldPrice": 99900,
+        "quantity": 8,
+        "rating": 4.1,
+        "reviews": [
+          {
+            "user": "Ahmed Khan",
+            "rating": 4.8,
+            "comment": "This shirt is excellent! The fabric is soft and breathable, perfect for both casual and formal occasions. The fit is spot on, not too tight and not too loose. I’ve washed it a few times, and it still looks as good as new. Definitely worth the money."
+          },
+          {
+            "user": "Bilal Sheikh",
+            "rating": 4.5,
+            "comment": "These trousers are a great addition to my wardrobe. The material is high-quality and feels durable. They fit comfortably around the waist and have a nice tapered look. I appreciate the attention to detail, like the stitching and the pockets."
+          },
+          {
+            "user": "Salman Tariq",
+            "rating": 4.2,
+            "comment": "I bought this jacket for the winter, and it’s been a solid choice. It’s warm and stylish, with a modern cut that doesn’t feel bulky. The only thing I’d improve is the zipper, which sometimes gets stuck, but overall, it’s a great buy."
+          }
+        ],
+        "type": [
+          "Slim Fit",
+          "Regular Fit"
+        ],
+        "note": "Actual product color may vary slightly from the image.",
+        "sewing": "Unstitched",
+        "shirt": "Elevate your festive attire in our lightweight, and breathable white two-piece suit. With the finest quality blended modal wrinkle free fabric, elevate your traditional look with unparalleled sophistication.",
+        "details": "Plain Front, Plain Back, Full Sleeves with Double Cuff, Collared Neckline",
+        "color": "White",
+        "fabric": "cotton",
+        "images": [
+          "https://pk.sapphireonline.pk/cdn/shop/files/0MST2P24V329_1.jpg?v=1719584802&width=400",
+          "https://pk.sapphireonline.pk/cdn/shop/files/0MST2P24V329_6.jpg?v=1719584802&width=400",
+          "https://pk.sapphireonline.pk/cdn/shop/files/0MST2P24V329_3.jpg?v=1719584802&width=400",
+          "https://pk.sapphireonline.pk/cdn/shop/files/0MST2P24V329_5.jpg?v=1719584802&width=400"
+        ],
+        "size": [
+          "XS",
+          "S",
+          "M",
+          "L"
+        ],
+        "status": "Sale"
+      },
+      {
+        "id": 15,
+        "category": "Man",
+        "mansubcategory": "Outfits",
+        "name": "Cotton Latha Suit",
+        "SKU": "MSTE2P24V316-XSM-SLM",
+        "price": 20970,
+        "oldPrice": 69900,
+        "quantity": 8,
+        "rating": 4.5,
+        "reviews": [
+          {
+            "user": "Ahmed Khan",
+            "rating": 4.8,
+            "comment": "This shirt is excellent! The fabric is soft and breathable, perfect for both casual and formal occasions. The fit is spot on, not too tight and not too loose. I’ve washed it a few times, and it still looks as good as new. Definitely worth the money."
+          },
+          {
+            "user": "Bilal Sheikh",
+            "rating": 4.5,
+            "comment": "These trousers are a great addition to my wardrobe. The material is high-quality and feels durable. They fit comfortably around the waist and have a nice tapered look. I appreciate the attention to detail, like the stitching and the pockets."
+          },
+          {
+            "user": "Salman Tariq",
+            "rating": 4.2,
+            "comment": "I bought this jacket for the winter, and it’s been a solid choice. It’s warm and stylish, with a modern cut that doesn’t feel bulky. The only thing I’d improve is the zipper, which sometimes gets stuck, but overall, it’s a great buy."
+          }
+        ],
+        "type": [
+          "Slim Fit",
+          "Regular Fit"
+        ],
+        "note": "Actual product color may vary slightly from the image.",
+        "sewing": "Unstitched",
+        "shirt": "Get ready for all your formal occasions in our white cotton latha straight kurta and shalwar.",
+        "details": "Plain Front, Plain Back, Full Sleeves with Cuff, Collared Neckline",
+        "color": "White",
+        "fabric": "100% Cotton",
+        "images": [
+          "https://pk.sapphireonline.pk/cdn/shop/files/00MST2P24V35_3.jpg?v=1719581960&width=400",
+          "https://pk.sapphireonline.pk/cdn/shop/files/00MST2P24V35_2.jpg?v=1719581960&width=400",
+          "https://pk.sapphireonline.pk/cdn/shop/files/00MST2P24V35_5.jpg?v=1719581960&width=400",
+          "https://pk.sapphireonline.pk/cdn/shop/files/00MST2P24V35_1.jpg?v=1719581960&width=400"
+        ],
+        "size": [
+          "XS",
+          "S",
+          "M",
+          "L"
+        ],
+        "status": "Sale"
+      },
+      {
+        "id": 16,
+        "category": "Man",
+        "mansubcategory": "Outfits",
+        "name": "Cotton Dobby Suit",
+        "SKU": "MSTE2P24V316-XSM-SLM",
+        "price": 30970,
+        "oldPrice": 68490,
+        "quantity": 38,
+        "rating": 4.0,
+        "reviews": [
+          {
+            "user": "Ahmed Khan",
+            "rating": 4.8,
+            "comment": "This shirt is excellent! The fabric is soft and breathable, perfect for both casual and formal occasions. The fit is spot on, not too tight and not too loose. I’ve washed it a few times, and it still looks as good as new. Definitely worth the money."
+          },
+          {
+            "user": "Bilal Sheikh",
+            "rating": 4.5,
+            "comment": "These trousers are a great addition to my wardrobe. The material is high-quality and feels durable. They fit comfortably around the waist and have a nice tapered look. I appreciate the attention to detail, like the stitching and the pockets."
+          },
+          {
+            "user": "Salman Tariq",
+            "rating": 4.2,
+            "comment": "I bought this jacket for the winter, and it’s been a solid choice. It’s warm and stylish, with a modern cut that doesn’t feel bulky. The only thing I’d improve is the zipper, which sometimes gets stuck, but overall, it’s a great buy."
+          }
+        ],
+        "type": [
+          "Slim Fit",
+          "Regular Fit"
+        ],
+        "note": "Actual product color may vary slightly from the image.",
+        "sewing": "Unstitched",
+        "shirt": "Elevate your everyday style in our black cotton dobby round hem kurta and trousers.",
+        "details": "Plain Front, Plain Back, Full Sleeves with Cuff, Band Neckline",
+        "color": "Black",
+        "fabric": "100% Cotton Dobby",
+        "images": [
+          "https://pk.sapphireonline.pk/cdn/shop/files/0MST2P24V512_3.jpg?v=1719581291&width=400",
+          "https://pk.sapphireonline.pk/cdn/shop/files/0MST2P24V512_2.jpg?v=1719581291&width=400",
+          "https://pk.sapphireonline.pk/cdn/shop/files/0MST2P24V512_6.jpg?v=1719581291&width=400",
+          "https://pk.sapphireonline.pk/cdn/shop/files/0MST2P24V512_5.jpg?v=1719581291&width=400"
+        ],
+        "size": [
+          "XS",
+          "S",
+          "M",
+          "L"
+        ],
+        "status": "Sale"
+      },
+      {
+        "id": 17,
+        "category": "Man",
+        "mansubcategory": "Waistcoats",
+        "name": "Tropical Fabric Waistcoat",
+        "SKU": "00MSTWC24V14-SML-RGL",
+        "price": 4245,
+        "oldPrice": 8490,
+        "quantity": 12,
+        "rating": 4.8,
+        "reviews": [
+          {
+            "user": "Ahmed Khan",
+            "rating": 4.8,
+            "comment": "This shirt is excellent! The fabric is soft and breathable, perfect for both casual and formal occasions. The fit is spot on, not too tight and not too loose. I’ve washed it a few times, and it still looks as good as new. Definitely worth the money."
+          },
+          {
+            "user": "Bilal Sheikh",
+            "rating": 4.5,
+            "comment": "These trousers are a great addition to my wardrobe. The material is high-quality and feels durable. They fit comfortably around the waist and have a nice tapered look. I appreciate the attention to detail, like the stitching and the pockets."
+          },
+          {
+            "user": "Salman Tariq",
+            "rating": 4.2,
+            "comment": "I bought this jacket for the winter, and it’s been a solid choice. It’s warm and stylish, with a modern cut that doesn’t feel bulky. The only thing I’d improve is the zipper, which sometimes gets stuck, but overall, it’s a great buy."
+          }
+        ],
+        "type": [
+          "Slim Fit",
+          "Regular Fit"
+        ],
+        "note": "Actual product color may vary slightly from the image.",
+        "shirt": "Elevate your outfit with our navy blue waistcoat.",
+        "details": "Plain Front, Plain Back, Band Neckline",
+        "color": "Navy Blue",
+        "fabric": "Tropical",
+        "images": [
+          "https://pk.sapphireonline.pk/cdn/shop/files/00MSTWC24V14_6.jpg?v=1719583844&width=400",
+          "https://pk.sapphireonline.pk/cdn/shop/files/00MSTWC24V14_3.jpg?v=1719583844&width=400",
+          "https://pk.sapphireonline.pk/cdn/shop/files/00MSTWC24V14_5.jpg?v=1719583844&width=400",
+          "https://pk.sapphireonline.pk/cdn/shop/files/00MSTWC24V14_4.jpg?v=1719583844&width=400"
+        ],
+        "size": [
+          "XS",
+          "S",
+          "M",
+          "L"
+        ],
+        "status": "Sale"
+      },
+      {
+        "id": 18,
+        "category": "Man",
+        "mansubcategory": "Waistcoats",
+        "name": "Tropical Fabric Waistcoat",
+        "SKU": "00MSTWC24V14-SML-RGL",
+        "price": 2397,
+        "oldPrice": 7990,
+        "quantity": 2,
+        "rating": 4.9,
+        "reviews": [
+          {
+            "user": "Ahmed Khan",
+            "rating": 4.8,
+            "comment": "This shirt is excellent! The fabric is soft and breathable, perfect for both casual and formal occasions. The fit is spot on, not too tight and not too loose. I’ve washed it a few times, and it still looks as good as new. Definitely worth the money."
+          },
+          {
+            "user": "Bilal Sheikh",
+            "rating": 4.5,
+            "comment": "These trousers are a great addition to my wardrobe. The material is high-quality and feels durable. They fit comfortably around the waist and have a nice tapered look. I appreciate the attention to detail, like the stitching and the pockets."
+          },
+          {
+            "user": "Salman Tariq",
+            "rating": 4.2,
+            "comment": "I bought this jacket for the winter, and it’s been a solid choice. It’s warm and stylish, with a modern cut that doesn’t feel bulky. The only thing I’d improve is the zipper, which sometimes gets stuck, but overall, it’s a great buy."
+          }
+        ],
+        "type": [
+          "Slim Fit",
+          "Regular Fit"
+        ],
+        "note": "Actual product color may vary slightly from the image.",
+        "shirt": "Make a crisp appearance this festive season in our checkered maroon tropical waistcoat accented with a pocket patch.",
+        "details": "Plain Front, Plain Back, Band Neckline",
+        "color": "Maroon",
+        "fabric": "Tropical",
+        "images": [
+          "https://pk.sapphireonline.pk/cdn/shop/files/00MSTWC24V36_2.jpg?v=1719584773&width=400",
+          "https://pk.sapphireonline.pk/cdn/shop/files/00MSTWC24V36_1.jpg?v=1719584773&width=400",
+          "https://pk.sapphireonline.pk/cdn/shop/files/00MSTWC24V36_3.jpg?v=1719584773&width=400",
+          "https://pk.sapphireonline.pk/cdn/shop/files/00MSTWC24V36_4.jpg?v=1719584773&width=400"
+        ],
+        "size": [
+          "XS",
+          "S",
+          "M",
+          "L"
+        ],
+        "status": "Sale"
+      },
+      {
+        "id": 19,
+        "category": "Man",
+        "mansubcategory": "Waistcoats",
+        "name": "Digital Printed Cotton Waistcoat",
+        "SKU": "00MSTWC24V14-SML-RGL",
+        "price": 2397,
+        "oldPrice": 7990,
+        "quantity": 42,
+        "rating": 4.3,
+        "reviews": [
+          {
+            "user": "Ahmed Khan",
+            "rating": 4.8,
+            "comment": "This shirt is excellent! The fabric is soft and breathable, perfect for both casual and formal occasions. The fit is spot on, not too tight and not too loose. I’ve washed it a few times, and it still looks as good as new. Definitely worth the money."
+          },
+          {
+            "user": "Bilal Sheikh",
+            "rating": 4.5,
+            "comment": "These trousers are a great addition to my wardrobe. The material is high-quality and feels durable. They fit comfortably around the waist and have a nice tapered look. I appreciate the attention to detail, like the stitching and the pockets."
+          },
+          {
+            "user": "Salman Tariq",
+            "rating": 4.2,
+            "comment": "I bought this jacket for the winter, and it’s been a solid choice. It’s warm and stylish, with a modern cut that doesn’t feel bulky. The only thing I’d improve is the zipper, which sometimes gets stuck, but overall, it’s a great buy."
+          }
+        ],
+        "type": [
+          "Slim Fit",
+          "Regular Fit"
+        ],
+        "note": "Actual product color may vary slightly from the image.",
+        "shirt": "Make a statement with our olive digitally printed waistcoat.",
+        "details": "Printed Front, Printed Back, Band Neckline",
+        "color": "Olive",
+        "fabric": "100% Fine Cotton",
+        "images": [
+          "https://pk.sapphireonline.pk/cdn/shop/files/0MSTEWC24V24_3.jpg?v=1719584196&width=400",
+          "https://pk.sapphireonline.pk/cdn/shop/files/0MSTEWC24V24_1.jpg?v=1719584196&width=400",
+          "https://pk.sapphireonline.pk/cdn/shop/files/0MSTEWC24V24_6.jpg?v=1719584196&width=400",
+          "https://pk.sapphireonline.pk/cdn/shop/files/0MSTEWC24V24_5.jpg?v=1719584196&width=400"
+        ],
+        "size": [
+          "XS",
+          "S",
+          "M",
+          "L"
+        ],
+        "status": "Sale"
+      },
+      {
+        "id": 20,
+        "category": "Man",
+        "mansubcategory": "Waistcoats",
+        "name": "Tropical Fabric Waistcoat",
+        "SKU": "00MSTWC24V14-SML-RGL",
+        "price": 3495,
+        "oldPrice": 6990,
+        "quantity": 2,
+        "rating": 4.0,
+        "reviews": [
+          {
+            "user": "Ahmed Khan",
+            "rating": 4.8,
+            "comment": "This shirt is excellent! The fabric is soft and breathable, perfect for both casual and formal occasions. The fit is spot on, not too tight and not too loose. I’ve washed it a few times, and it still looks as good as new. Definitely worth the money."
+          },
+          {
+            "user": "Bilal Sheikh",
+            "rating": 4.5,
+            "comment": "These trousers are a great addition to my wardrobe. The material is high-quality and feels durable. They fit comfortably around the waist and have a nice tapered look. I appreciate the attention to detail, like the stitching and the pockets."
+          },
+          {
+            "user": "Salman Tariq",
+            "rating": 4.2,
+            "comment": "I bought this jacket for the winter, and it’s been a solid choice. It’s warm and stylish, with a modern cut that doesn’t feel bulky. The only thing I’d improve is the zipper, which sometimes gets stuck, but overall, it’s a great buy."
+          }
+        ],
+        "type": [
+          "Slim Fit",
+          "Regular Fit"
+        ],
+        "note": "Actual product color may vary slightly from the image.",
+        "shirt": "Our dark grey tropical waistcoat features embroidered detailing for an elevated festive look.",
+        "details": "Plain Front, Plain Back, Band Neckline",
+        "color": "Dark Grey",
+        "fabric": "100% Fine Cotton",
+        "images": [
+          "https://pk.sapphireonline.pk/cdn/shop/files/0MSTWC24IV12_3.jpg?v=1719490976&width=400",
+          "https://pk.sapphireonline.pk/cdn/shop/files/0MSTWC24IV12_1.jpg?v=1719490976&width=400",
+          "https://pk.sapphireonline.pk/cdn/shop/files/0MSTWC24IV12_6.jpg?v=1719490976&width=400",
+          "https://pk.sapphireonline.pk/cdn/shop/files/0MSTWC24IV12_5.jpg?v=1719490976&width=400"
+        ],
+        "size": [
+          "XS",
+          "S",
+          "M",
+          "L"
+        ],
+        "status": "Sale"
+      }
+]
